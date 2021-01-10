@@ -1,1 +1,6 @@
-console.log("Hello Parvez Ansari");
+function greet(name)
+{
+    console.log("Hello " + name);
+}
+
+greet("Parvez Ansari")
